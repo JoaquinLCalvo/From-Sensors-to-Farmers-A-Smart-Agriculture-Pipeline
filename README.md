@@ -14,6 +14,9 @@ To run the API server:
 To run the PowerBI dashboard:
 Download PowerBI Desktop and open the file. The hidden tabs are not to be considered as part of the delivery.
 
+To see a demo on video of the dashboard:
+Click [here](https://drive.google.com/file/d/1kjKF9z_bRc3xRIDY-XVKt0MbEzw-mFZ2/view?usp=sharing).
+
 
 To access the API Swagger Documentation
 http://localhost:8000/docs
