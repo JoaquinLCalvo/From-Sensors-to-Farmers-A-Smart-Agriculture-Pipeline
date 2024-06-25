@@ -1,5 +1,7 @@
 # From-Sensors-to-Farmers-A-Smart-Agriculture-Pipeline
 
+### Steps to run the pipeline & display the dashboard
+
 To run the pipeline
 Inside Backend : python build.py : to build the containers and install the required python packages
 		    python run.py   : to run the containers and start the pipeline
