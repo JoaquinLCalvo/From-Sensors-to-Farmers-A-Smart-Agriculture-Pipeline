@@ -12,7 +12,7 @@ To run the API server:
    Inside Frontend : python run_api_server.py ; build the fastapi container and start the api server
 
 To run the PowerBI dashboard:
-Download PowerBI Desktop and open the file. The hidden tabs are not supposed to be considered.
+Download PowerBI Desktop and open the file. The hidden tabs are not to be considered as part of the delivery.
 
 
 To access the API Swagger Documentation
