@@ -24,10 +24,6 @@ The purpose of this project is to create a smart agriculture monitoring platform
 - [ ] Advanced Data Analytics for Predictive Insights - Currently limited by the artificial parameters used and the synthetic nature of some data points
 - [ ] Integration with Additional IoT Sensors - Potential future expansion as more sensor data becomes available
 
- ### Architecture
-
- Pipeline of the project.
-
 
  ### Steps to run the pipeline & display the dashboard
 
