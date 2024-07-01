@@ -27,21 +27,21 @@ FastAPI
  ### Architecture
  ### Steps to run the pipeline & display the dashboard
 
-	To run the pipeline
-	Inside Backend : python build.py : to build the containers and install the required python packages
-			    python run.py   : to run the containers and start the pipeline
-			    python stop.py  : to get down the containers
-	
-	
-	To run the API server:
-	   Inside Frontend : python run_api_server.py ; build the fastapi container and start the api server
-	
-	To run the PowerBI dashboard:
-	Download PowerBI Desktop and open the file. The hidden tabs are not to be considered as part of the delivery.
-	
-	To see a demo on video of the dashboard:
-	Click [here](https://drive.google.com/file/d/1kjKF9z_bRc3xRIDY-XVKt0MbEzw-mFZ2/view?usp=sharing).
-	
-	
-	To access the API Swagger Documentation
-	http://localhost:8000/docs
+To run the pipeline
+Inside Backend : python build.py : to build the containers and install the required python packages
+		    python run.py   : to run the containers and start the pipeline
+		    python stop.py  : to get down the containers
+
+
+To run the API server:
+   Inside Frontend : python run_api_server.py ; build the fastapi container and start the api server
+
+To run the PowerBI dashboard:
+Download PowerBI Desktop and open the file. The hidden tabs are not to be considered as part of the delivery.
+
+To see a demo on video of the dashboard:
+Click [here](https://drive.google.com/file/d/1kjKF9z_bRc3xRIDY-XVKt0MbEzw-mFZ2/view?usp=sharing).
+
+
+To access the API Swagger Documentation
+http://localhost:8000/docs
