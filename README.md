@@ -1,5 +1,8 @@
 # From-Sensors-to-Farmers-A-Smart-Agriculture-Pipeline
 
+### Abstract
+The project was designed for the Big Data Technologies’ course (a.y. 2023/2024).
+The purpose of this project creates a smart agriculture monitoring platform that uses IoT sensors and advanced data analytics to improve farm management. It collects data on soil moisture, temperature, and humidity to optimize irrigation and productivity. The data is processed using Apache Beam, MQTT, Apache Spark, and DuckDB, and visualized with PowerBI to give farmers actionable insights.
 ### Steps to run the pipeline & display the dashboard
 
 To run the pipeline
