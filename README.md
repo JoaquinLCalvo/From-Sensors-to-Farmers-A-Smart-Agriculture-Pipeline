@@ -21,8 +21,8 @@ FastAPI
 - [x] Machine Learning Model Training and Predictions
 - [x] Visualization with PowerBI Dashboards
 - [x] Real-time Alerts and Notifications for Farmers
-- [] Advanced Data Analytics for Predictive Insights - Currently limited by the artificial parameters used and the synthetic nature of some data points
-- [] Integration with Additional IoT Sensors - Potential future expansion as more sensor data becomes available
+- [ ] Advanced Data Analytics for Predictive Insights - Currently limited by the artificial parameters used and the synthetic nature of some data points
+- [ ] Integration with Additional IoT Sensors - Potential future expansion as more sensor data becomes available
 
  ### Architecture
  ### Steps to run the pipeline & display the dashboard
