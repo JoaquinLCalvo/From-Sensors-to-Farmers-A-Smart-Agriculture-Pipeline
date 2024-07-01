@@ -25,6 +25,10 @@ The purpose of this project is to create a smart agriculture monitoring platform
 - [ ] Integration with Additional IoT Sensors - Potential future expansion as more sensor data becomes available
 
  ### Architecture
+
+ Pipeline of the project.
+
+
  ### Steps to run the pipeline & display the dashboard
 
 To run the pipeline
