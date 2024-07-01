@@ -5,12 +5,12 @@ The project was designed for the Big Data Technologies’ course (a.y. 2023/2024
 The purpose of this project is to create a smart agriculture monitoring platform that uses IoT sensors and advanced data analytics to improve farm management. By collecting data on soil moisture, temperature, and humidity from sensors placed Melbourne (https://discover.data.vic.gov.au/dataset/soil-sensor-readings-historical-data), as well as weather data from API (https://open-meteo.com/), the platform optimizes irrigation and productivity, providing farmers with actionable insights.
 
 ### Technologies
-Apache Beam
-MQTT
-Apache Spark
-DuckDB
-PowerBI
-FastAPI
+- Apache Beam
+- MQTT
+- Apache Spark
+- DuckDB
+- PowerBI
+- FastAPI
 
 ### Functionalities
 - [x] Soil and Weather Data Collection
