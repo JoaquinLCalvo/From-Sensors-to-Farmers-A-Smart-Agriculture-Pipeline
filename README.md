@@ -4,7 +4,11 @@
 The project was designed for the Big Data Technologies’ course (a.y. 2023/2024).
 The purpose of this project is to create a smart agriculture monitoring platform that uses IoT sensors and advanced data analytics to improve farm management. By collecting data on soil moisture, temperature, and humidity from sensors placed Melbourne (https://discover.data.vic.gov.au/dataset/soil-sensor-readings-historical-data), as well as weather data from API (https://open-meteo.com/), the platform optimizes irrigation and productivity, providing farmers with actionable insights.
 
+![schema](https://github.com/JoaquinLCalvo/From-Sensors-to-Farmers-A-Smart-Agriculture-Pipeline/assets/70219755/43925196-a134-45b7-8c33-6c9640f03af4)
+
 ### Technologies
+- API
+- Parquet
 - Apache Beam
 - MQTT
 - Apache Spark
