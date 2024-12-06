@@ -3,8 +3,9 @@
 
 ## Motivation
 
-Farming decisions often rely on intermediaries to interpret complex data from IoT sensors, leading to inefficiencies and delays. This project addresses the challenge by building a distributed system that processes IoT sensor data and weather information, transforming it into actionable insights. The focus lies on leveraging big data technologies for efficient ETL processes, optimized storage, and data modeling, with PowerBI serving as the intuitive front-end for farmers to access the insights from their phones.
+Farming decisions often rely on intermediaries to interpret complex data from IoT sensors, leading to inefficiencies and delays. This project addresses the challenge by building a distributed system that processes IoT sensor data and weather information, transforming it into actionable insights. The focus lies on leveraging big data technologies for efficient ETL processes, optimized storage, and data modeling, with PowerBI serving as the intuitive front-end for farmers to access insights from their phones.
 
+![big-data-schema](https://github.com/user-attachments/assets/e118b45b-57e8-4b80-a042-c2a089d4da83)
 
 ## Project Overview
 
@@ -36,6 +37,8 @@ While developed as a prototype for a Big Data course, the project highlights the
 
 
 
+
+
 ## Functionalities
 
 - [x] Soil and Weather Data Collection
@@ -49,6 +52,8 @@ While developed as a prototype for a Big Data course, the project highlights the
 - [] Advanced Data Analytics for Predictive Insights (Future scope)
 - [] Integration with Additional IoT Sensors (Future scope)
 
+
+![image](https://github.com/user-attachments/assets/6bf1a81f-5000-4e1e-a63b-0d453f763018)
 
 ## Pipeline Demonstration
 
